@@ -4,7 +4,7 @@
 
 1. Clone the GitHub repository to your local directory:
    
-`git clone [https://github.com/yourusername/RenamePhoto.git](https://github.com/enokseth/Nautilus-Pictures-Renamer.git)`
+`git clone https://github.com/yourusername/RenamePhoto.git`
 
 2. Copy the "renamephoto" folder to the Nautilus scripts directory:
 
