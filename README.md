@@ -1,6 +1,6 @@
 # Nautilus-Pictures-Renamer
 
-## Rename pictures recursilvly with right click 
+## Rename Pictures Recursively with Right Click
 
 1. Clone the GitHub repository to your local directory:
    
