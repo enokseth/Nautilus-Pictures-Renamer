@@ -14,19 +14,15 @@
 
 `sudo chmod 2777 ~/.local/share/nautilus/scripts/renamephoto/rename-photo.sh`
 
-4. Grant permissions to the desktop entry "renamer.desktop":
-
-`sudo chmod 2777 ~/.local/share/nautilus/scripts/renamephoto/renamer.desktop`
-
-5. Restart Nautilus to apply the changes:
+4. Restart Nautilus to apply the changes:
 
 `nautilus -q`
 
-6. You should now see the "Scripts" and "renamephoto" and "rename-photo.sh" option when you right-click on a folder containing images using the Nautilus file manager.
+5. You should now see the "Scripts" and "renamephoto" and "rename-photo.sh" option when you right-click on a folder containing images using the Nautilus file manager.
 
 ![img](img/6.png)
 
-7. Select the "rename-photo.sh" option, and the script will rename the image files in the selected folder and its subfolders, adding a sequential number to each file.
+6. Select the "rename-photo.sh" option, and the script will rename the image files in the selected folder and its subfolders, adding a sequential number to each file.
 
 ![img](img/7.png)
 
