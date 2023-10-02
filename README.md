@@ -24,12 +24,12 @@
 
 6. You should now see the "Scripts" and "renamephoto" and "rename-photo.sh" option when you right-click on a folder containing images using the Nautilus file manager.
 
-![Image de mon projet](https://github.com/enokseth/Nautilus-Pictures-Renamer/tree/main/img/6.png)
+![Image de mon projet](Nautilus-Pictures-Renamer/tree/main/img/6.png?raw=true)
 
 
 7. Select the "rename-photo.sh" option, and the script will rename the image files in the selected folder and its subfolders, adding a sequential number to each file.
 
-![Image de mon projet](https://github.com/enokseth/Nautilus-Pictures-Renamer/tree/main/img/7.png)
+![Image de mon projet](Nautilus-Pictures-Renamer/tree/main/img/7.png?raw=true)
 
 ## Customization
 
