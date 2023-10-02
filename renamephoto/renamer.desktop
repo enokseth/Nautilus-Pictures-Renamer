@@ -1,0 +1,5 @@
+[Desktop Entry]
+Name=Rename pictures
+Exec=cd "$(dirname %f)" && rename-photo.sh
+Type=Application
+Terminal=false
